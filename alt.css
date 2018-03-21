@@ -1,0 +1,26 @@
+body{
+background-color: #2F4F4F;
+font-family: "Times New Roman", Times, serif;
+color: #000000;
+}
+h1
+{
+
+font-family: "Courier New", Courier, monospace;
+margin-left: 9cm;
+color: #000000;
+}
+
+.content
+{
+background-color: #696969;
+font-family: "Times New Roman", Times, serif;
+color: #000000;
+}
+a
+{
+font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+background-color: #696969;
+margin-left: 7cm;
+color: #000000;
+}

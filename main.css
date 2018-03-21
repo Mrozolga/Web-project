@@ -1,0 +1,27 @@
+body{
+background-color: white;
+font-family: "Times New Roman", Times, serif;
+
+}
+h1
+{
+
+font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+margin-left: 9cm;
+}
+.newPost
+{
+background-color: #D6EBFA;
+font-family: "Courier New", Courier, monospace;
+}
+.content
+{
+background-color: #D6EBFA;
+font-family: "Courier New", Courier, monospace;
+}
+a
+{
+font-family: "Courier New",Courier,monospace;
+background-color: #D6EBFA;
+margin-left: 7cm;
+}
